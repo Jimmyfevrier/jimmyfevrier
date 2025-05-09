@@ -12,12 +12,12 @@
 
 - <b>AWS</b>
   - [Amazon Web Services (AWS)](https://github.com/Jimmyfevrier/Amazon-Web-Services/blob/6ff9c2e2322bcc6c52e465dc80a3fa3074bb977f/README.md)
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me: 321-704-2511 </h2>
 
 [<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[twitter]: https://x.com/fevrier_ji38422
+[instagram]: https://www.instagram.com/jimmyfevrier/?next=%2F
+[linkedin]: https://www.linkedin.com/in/jimmy-fevrier-67738585/
