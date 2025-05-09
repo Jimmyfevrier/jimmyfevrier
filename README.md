@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jimmy, an <a href="www.linkedin.com/in/jimmy-fevrier-67738585">IT Professional</a></h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Pro Folio:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/Jimmyfevrier/osticket-prereqs.git)
